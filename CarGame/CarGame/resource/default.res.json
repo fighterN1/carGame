@@ -1,0 +1,209 @@
+{
+	"groups": [
+		{
+			"keys": "bg_png,car0_png,car1_png,car2_png,carLight_png,failedNotice_png,hero_png,heroDied_png,heroProtected_png,heroSlow_png,loadingBg_png,loadingCar_png,noticeBg_png,playAgainBtn_png,roadblock_png,roadnum_fnt,startGameBtn_png,startLine_png,startnum1_png,startnum2_png,startnum3_png,succeededNotice_png,succeededrotation_png,timenum_fnt,timenumBg_png,roadnumBg_png,light_png,bg2_png,speedometer_png,gameOver_png,carHit_png,logo_png,zebraCrossing_png,headerBar1_png,colorful_png,bg1_png,bg3_png,share_png,palyAgain_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loadingBg_png,loadingCar_png",
+			"name": "loadingui"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "mySources/bg.png?"
+		},
+		{
+			"name": "car0_png",
+			"type": "image",
+			"url": "mySources/car0.png"
+		},
+		{
+			"name": "car1_png",
+			"type": "image",
+			"url": "mySources/car1.png"
+		},
+		{
+			"name": "car2_png",
+			"type": "image",
+			"url": "mySources/car2.png"
+		},
+		{
+			"name": "carLight_png",
+			"type": "image",
+			"url": "mySources/carLight.png"
+		},
+		{
+			"name": "failedNotice_png",
+			"type": "image",
+			"url": "mySources/failedNotice.png"
+		},
+		{
+			"name": "hero_png",
+			"type": "image",
+			"url": "mySources/hero.png"
+		},
+		{
+			"name": "heroDied_png",
+			"type": "image",
+			"url": "mySources/heroDied.png"
+		},
+		{
+			"name": "heroProtected_png",
+			"type": "image",
+			"url": "mySources/heroProtected.png"
+		},
+		{
+			"name": "heroSlow_png",
+			"type": "image",
+			"url": "mySources/heroSlow.png"
+		},
+		{
+			"name": "loadingBg_png",
+			"type": "image",
+			"url": "mySources/loadingBg.png"
+		},
+		{
+			"name": "loadingCar_png",
+			"type": "image",
+			"url": "mySources/loadingCar.png"
+		},
+		{
+			"name": "noticeBg_png",
+			"type": "image",
+			"url": "mySources/noticeBg.png"
+		},
+		{
+			"name": "playAgainBtn_png",
+			"type": "image",
+			"url": "mySources/playAgainBtn.png"
+		},
+		{
+			"name": "roadblock_png",
+			"type": "image",
+			"url": "mySources/roadblock.png"
+		},
+		{
+			"name": "roadnum_fnt",
+			"type": "font",
+			"url": "mySources/roadnum/roadnum.fnt"
+		},
+		{
+			"name": "startGameBtn_png",
+			"type": "image",
+			"url": "mySources/startGameBtn.png"
+		},
+		{
+			"name": "startLine_png",
+			"type": "image",
+			"url": "mySources/startLine.png"
+		},
+		{
+			"name": "startnum1_png",
+			"type": "image",
+			"url": "mySources/startnum1.png"
+		},
+		{
+			"name": "startnum2_png",
+			"type": "image",
+			"url": "mySources/startnum2.png"
+		},
+		{
+			"name": "startnum3_png",
+			"type": "image",
+			"url": "mySources/startnum3.png"
+		},
+		{
+			"name": "succeededNotice_png",
+			"type": "image",
+			"url": "mySources/succeededNotice.png"
+		},
+		{
+			"name": "succeededrotation_png",
+			"type": "image",
+			"url": "mySources/succeededrotation.png"
+		},
+		{
+			"name": "timenum_fnt",
+			"type": "font",
+			"url": "mySources/timenum/timenum.fnt"
+		},
+		{
+			"name": "timenumBg_png",
+			"type": "image",
+			"url": "mySources/timenumBg.png"
+		},
+		{
+			"name": "roadnumBg_png",
+			"type": "image",
+			"url": "mySources/roadnumBg.png"
+		},
+		{
+			"name": "light_png",
+			"type": "image",
+			"url": "mySources/light.png"
+		},
+		{
+			"name": "bg2_png",
+			"type": "image",
+			"url": "mySources/bg2.png"
+		},
+		{
+			"name": "speedometer_png",
+			"type": "image",
+			"url": "mySources/speedometer.png"
+		},
+		{
+			"name": "gameOver_png",
+			"type": "image",
+			"url": "mySources/gameOver.png"
+		},
+		{
+			"name": "carHit_png",
+			"type": "image",
+			"url": "mySources/carHit.png"
+		},
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "mySources/logo.png"
+		},
+		{
+			"name": "zebraCrossing_png",
+			"type": "image",
+			"url": "mySources/zebraCrossing.png"
+		},
+		{
+			"name": "headerBar1_png",
+			"type": "image",
+			"url": "mySources/headerBar1.png"
+		},
+		{
+			"name": "colorful_png",
+			"type": "image",
+			"url": "mySources/colorful.png"
+		},
+		{
+			"name": "bg1_png",
+			"type": "image",
+			"url": "mySources/bg1.png"
+		},
+		{
+			"name": "bg3_png",
+			"type": "image",
+			"url": "mySources/bg3.png"
+		},
+		{
+			"name": "share_png",
+			"type": "image",
+			"url": "mySources/share.png"
+		},
+		{
+			"name": "palyAgain_png",
+			"type": "image",
+			"url": "mySources/palyAgain.png"
+		}
+	]
+}
