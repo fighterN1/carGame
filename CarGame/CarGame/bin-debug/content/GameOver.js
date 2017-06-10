@@ -38,4 +38,3 @@ var game;
     game.GameOver = GameOver;
     egret.registerClass(GameOver,"game.GameOver");
 })(game || (game = {}));
-//# sourceMappingURL=GameOver.js.map

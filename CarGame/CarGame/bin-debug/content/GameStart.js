@@ -33,4 +33,3 @@ var game;
     game.GameStart = GameStart;
     egret.registerClass(GameStart,"game.GameStart");
 })(game || (game = {}));
-//# sourceMappingURL=GameStart.js.map

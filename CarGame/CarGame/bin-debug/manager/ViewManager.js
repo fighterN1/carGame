@@ -56,4 +56,3 @@ var game;
     game.ViewManager = ViewManager;
     egret.registerClass(ViewManager,"game.ViewManager");
 })(game || (game = {}));
-//# sourceMappingURL=ViewManager.js.map

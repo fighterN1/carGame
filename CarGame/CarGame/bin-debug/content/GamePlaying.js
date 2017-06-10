@@ -159,4 +159,3 @@ var game;
     game.GamePlaying = GamePlaying;
     egret.registerClass(GamePlaying,"game.GamePlaying");
 })(game || (game = {}));
-//# sourceMappingURL=GamePlaying.js.map

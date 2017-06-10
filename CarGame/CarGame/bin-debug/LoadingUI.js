@@ -13,4 +13,3 @@ var LoadingUI = (function (_super) {
     return LoadingUI;
 })(eui.Component);
 egret.registerClass(LoadingUI,"LoadingUI");
-//# sourceMappingURL=LoadingUI.js.map

@@ -13,7 +13,7 @@
 		{
 			"name": "bg_png",
 			"type": "image",
-			"url": "mySources/bg.png?"
+			"url": "mySources/bg.png"
 		},
 		{
 			"name": "car0_png",

@@ -82,4 +82,3 @@ var game;
     game.MoveUtil = MoveUtil;
     egret.registerClass(MoveUtil,"game.MoveUtil");
 })(game || (game = {}));
-//# sourceMappingURL=MoveUtil.js.map

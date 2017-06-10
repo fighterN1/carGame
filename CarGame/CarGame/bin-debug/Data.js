@@ -20,4 +20,3 @@ var game;
     game.Data = Data;
     egret.registerClass(Data,"game.Data");
 })(game || (game = {}));
-//# sourceMappingURL=Data.js.map

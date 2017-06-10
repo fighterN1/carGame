@@ -22,4 +22,3 @@ var game;
     game.SceneEvent = SceneEvent;
     egret.registerClass(SceneEvent,"game.SceneEvent");
 })(game || (game = {}));
-//# sourceMappingURL=SceneEvent.js.map

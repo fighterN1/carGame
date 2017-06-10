@@ -50,4 +50,3 @@ var game;
     game.Car = Car;
     egret.registerClass(Car,"game.Car");
 })(game || (game = {}));
-//# sourceMappingURL=Car.js.map
